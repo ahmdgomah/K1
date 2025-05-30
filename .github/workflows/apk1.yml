@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/اسم_المستخدم/اسم_المستودع.git
+git add .
+git commit -m "رفع أولي للمشروع"
+git push -u origin master
